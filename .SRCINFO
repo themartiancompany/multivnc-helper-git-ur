@@ -1,6 +1,6 @@
 pkgbase = multivnc-helper-git
 	pkgdesc = Manage MultiVNC settings.
-	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.r0.g14a4c22f98a05a4aa4b3aa949ccce32f3755e104
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.r0.g81b300987cc35fa139845e0ce22854fd07892c9e
 	pkgrel = 1
 	url = https://github.com/themartiancompany/multivnc-helper
 	arch = any
@@ -18,7 +18,7 @@ pkgbase = multivnc-helper-git
 	optdepends = android-recorder: for recording from this device screen.
 	optdepends = android-camera-recorder: for recording from this device camera
 	optdepends = android-remote-camera-recorder: for recording from the camera of another device
-	provides = multivnc-helper=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.r0.g14a4c22f98a05a4aa4b3aa949ccce32f3755e104
+	provides = multivnc-helper=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.r0.g81b300987cc35fa139845e0ce22854fd07892c9e
 	conflicts = multivnc-helper
 	source = multivnc-helper.tar.gz::https://github.com/themartiancompany/multivnc-helper/archive/refs/heads/master.tar.gz
 	sha256sums = SKIP

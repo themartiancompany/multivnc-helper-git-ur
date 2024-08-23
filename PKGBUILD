@@ -11,7 +11,7 @@ _local=false
 _proj="hip"
 _pkgname=multivnc-helper
 pkgname="${_pkgname}-git"
-pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1.1".r0.g"14a4c22f98a05a4aa4b3aa949ccce32f3755e104"
+pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1".r0.g"81b300987cc35fa139845e0ce22854fd07892c9e"
 pkgrel=1
 _pkgdesc=(
   "Manage MultiVNC settings."
